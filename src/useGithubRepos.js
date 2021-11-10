@@ -33,7 +33,7 @@ export const useGithubRepos = () => {
         }
       `,
       {},
-      { authorization: "Bearer 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" }
+      { authorization: "Bearer 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" }
     );
     return data;
   });
